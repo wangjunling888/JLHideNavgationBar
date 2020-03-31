@@ -9,8 +9,8 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "JLHideNavigationBar"
-  spec.version      = "0.0.6"
-  spec.summary      = "一行代码隐藏导航栏"
+  spec.version      = "0.0.1"
+  spec.summary      = "一行代码隐藏导航栏, 不需要隐藏的页面自动加上"
   spec.homepage     = "https://github.com/wangjunling888/JLHideNavigationBar"
   spec.license      = "MIT"
   spec.author       = { "junling" => "junling.wang@hotmail.com" }
